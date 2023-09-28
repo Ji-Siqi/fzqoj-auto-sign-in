@@ -1,6 +1,6 @@
 # uoj自动签到
 
-该工具是FZOIerのuoj的自动签到神器，使用方法如下
+该工具是FZOIerのqoj的自动签到神器，使用方法如下
 
 1. ~~给我点个赞~~
 2. Fork/Import code这个仓库（最好Import code成私有仓库）
