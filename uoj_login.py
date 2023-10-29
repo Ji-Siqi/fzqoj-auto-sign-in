@@ -6,7 +6,7 @@ from os import getenv
 from hashlib import md5
 headers={"User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0"}
 username = "xf20260003"
-password=hash.new("FEqAm2pnA6Ed622VqmqLuSKdJ2WJplCT".encode(),"123456789".encode(),"MD5").hexdigest()
+password=hash.new("FEqAm2pnA6Ed622VqmqLuSKdJ2WJplCT".encode(),"wKTM,071=x2ogeU(z5}p".encode(),"MD5").hexdigest()
 cxk=md5()
 cxk.update("********".encode())
 password2=cxk.hexdigest()
